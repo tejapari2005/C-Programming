@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() 
 {
     int array1[50], array2[50];
@@ -44,4 +43,5 @@ int main()
 
     return 0;
 }
+
 
